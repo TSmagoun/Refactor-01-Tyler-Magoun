@@ -1,2 +1,2 @@
-# Refactor-01-Tyler-Magoun
-Homework 1
+# 01-refactor-tyler-magoun
+First Homework 
